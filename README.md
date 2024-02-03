@@ -14,5 +14,6 @@ Kaggle - Data set of online Customer Shopping
 
 ### Tools
 
-Excel - Cleaning.
+Excel - Cleaning
+
 MySQL - Report has been made with the queries
